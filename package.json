@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "node movies.js"
+    "start": "node tickets.js"
   },
   "dependencies": {
     "cookie-parser": "^1.4.6",
